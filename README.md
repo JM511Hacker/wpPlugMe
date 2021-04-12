@@ -1,0 +1,2 @@
+# wpPlugMe
+Wordpress plug scanner
